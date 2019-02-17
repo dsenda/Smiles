@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\danie\Documents\CPE301\lecutre\DA1a\shift_add_assm_code\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\danie\Documents\CPE301\lecutre\DA1a\shift_add_assm_code\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\danie\Documents\CPE301\lecutre\DA1a\shift_add_assm_code\Debug\shift_add_assm_code.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>shift_add_assm_code.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>shift_add_assm_code.map</FILE>
+  <FILE>shift_add_assm_code.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA1a\shift_add_assm_code\main.asm</FILE><LINE>6</LINE></start>
+  <loop><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA1a\shift_add_assm_code\main.asm</FILE><LINE>12</LINE></loop>
+  <lsb_multiplier><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA1a\shift_add_assm_code\main.asm</FILE><LINE>20</LINE></lsb_multiplier>
+  <end><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA1a\shift_add_assm_code\main.asm</FILE><LINE>25</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
