@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "assm_code1_waveform", "assm_code1_waveform\assm_code1_waveform.asmproj", "{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "delay_0_1ms_normal_mode", "delay_0_1ms_normal_mode\delay_0_1ms_normal_mode.asmproj", "{4E326CC2-6D11-4CF9-980A-3467088DB32B}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "assm_code2_switched_LEDpulse_1_25s", "assm_code2_switched_LEDpulse_1_25s\assm_code2_switched_LEDpulse_1_25s.asmproj", "{1C18343F-1CDD-4442-AF93-F5FC3B917E9D}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "c_code1_waveform", "c_code1_waveform\c_code1_waveform.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "c_code2_switched_LEDpulse_1_25s", "c_code2_switched_LEDpulse_1_25s\c_code2_switched_LEDpulse_1_25s.cproj", "{0ED795E3-0DF8-4455-83D7-4D1C2F5FA0E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.Build.0 = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.ActiveCfg = Release|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.Build.0 = Release|AVR
+		{4E326CC2-6D11-4CF9-980A-3467088DB32B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4E326CC2-6D11-4CF9-980A-3467088DB32B}.Debug|AVR.Build.0 = Debug|AVR
+		{4E326CC2-6D11-4CF9-980A-3467088DB32B}.Release|AVR.ActiveCfg = Release|AVR
+		{4E326CC2-6D11-4CF9-980A-3467088DB32B}.Release|AVR.Build.0 = Release|AVR
+		{1C18343F-1CDD-4442-AF93-F5FC3B917E9D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1C18343F-1CDD-4442-AF93-F5FC3B917E9D}.Debug|AVR.Build.0 = Debug|AVR
+		{1C18343F-1CDD-4442-AF93-F5FC3B917E9D}.Release|AVR.ActiveCfg = Release|AVR
+		{1C18343F-1CDD-4442-AF93-F5FC3B917E9D}.Release|AVR.Build.0 = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{0ED795E3-0DF8-4455-83D7-4D1C2F5FA0E9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0ED795E3-0DF8-4455-83D7-4D1C2F5FA0E9}.Debug|AVR.Build.0 = Debug|AVR
+		{0ED795E3-0DF8-4455-83D7-4D1C2F5FA0E9}.Release|AVR.ActiveCfg = Release|AVR
+		{0ED795E3-0DF8-4455-83D7-4D1C2F5FA0E9}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

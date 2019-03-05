@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code2_switched_LEDpulse_1_25s\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code2_switched_LEDpulse_1_25s\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code2_switched_LEDpulse_1_25s\Debug\assm_code2_switched_LEDpulse_1_25s.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>assm_code2_switched_LEDpulse_1_25s.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>assm_code2_switched_LEDpulse_1_25s.map</FILE>
+  <FILE>assm_code2_switched_LEDpulse_1_25s.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code2_switched_LEDpulse_1_25s\main.asm</FILE><LINE>15</LINE></main>
+  <timer_reset><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code2_switched_LEDpulse_1_25s\main.asm</FILE><LINE>26</LINE></timer_reset>
+  <delay1><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code2_switched_LEDpulse_1_25s\main.asm</FILE><LINE>32</LINE></delay1>
+  <delay1a><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code2_switched_LEDpulse_1_25s\main.asm</FILE><LINE>38</LINE></delay1a>
+ </LABELS>
+</ASSEMBLER_INFO>

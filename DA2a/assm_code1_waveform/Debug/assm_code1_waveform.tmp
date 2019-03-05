@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\Debug\assm_code1_waveform.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>assm_code1_waveform.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>assm_code1_waveform.map</FILE>
+  <FILE>assm_code1_waveform.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\main.asm</FILE><LINE>12</LINE></main>
+  <delay1><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\main.asm</FILE><LINE>29</LINE></delay1>
+  <timer_reset><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\main.asm</FILE><LINE>23</LINE></timer_reset>
+  <delay2><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\main.asm</FILE><LINE>40</LINE></delay2>
+  <delay1a><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\main.asm</FILE><LINE>35</LINE></delay1a>
+  <delay2a><FILE>C:\Users\danie\Documents\CPE301\lecutre\DA2a\assm_code1_waveform\main.asm</FILE><LINE>46</LINE></delay2a>
+ </LABELS>
+</ASSEMBLER_INFO>
