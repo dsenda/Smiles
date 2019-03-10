@@ -12,3 +12,6 @@ This folder contains a **subfolder called DA1b** that has the finalized assembly
 
 # DA2a
 This folder contains all the finalized codes inside. The DA1b subfolder also contains the word file (Senda_DA2a_documentation) that documents the assembly code including screenshots.
+
+# DA2b
+This folder contains all the finalized codes inside. The DA1b subfolder also contains the word file (Senda_DA2a_documentation) that documents the assembly code including screenshots.
