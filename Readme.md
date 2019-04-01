@@ -21,3 +21,6 @@ This folder contains all the finalized codes inside. The DA2c folder also contai
 
 # DA3a
 This folder contains all the finalized codes inside. The DA3a folder also contains the word file **(Senda_DA3a_documentation)** that documents the assembly code including screenshots.
+
+# DA3b
+This folder contains all the finalized codes inside. The DA3b folder also contains the word file **(Senda_DA3b_documentation)** that documents the c code including screenshots.
