@@ -27,3 +27,7 @@ This folder contains all the finalized codes inside. The DA3b folder also contai
 
 # Midterm1
 This folder contains all the finalized codes inside. The Midterm1 folder also contains the pdf file **(Senda_Midterm1_documentation)** that documents the c code including screenshots.
+
+# DA4a
+This folder contains all the finalized codes inside. The DA4a folder also contains the word file **(Senda_DA4a_documentation)** that documents the c code including screenshots.
+
