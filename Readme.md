@@ -36,3 +36,7 @@ This folder contains all the finalized codes inside. The DA4b folder also contai
 
 # DA5
 This folder contains all the finalized codes inside. The DA5 folder also contains the word file **(Senda_DA5_documentation)** that documents the c code including screenshots.
+
+# DA6
+This folder contains all the finalized codes inside. The DA6 folder also contains the word file **(Senda_DA6_documentation)** that documents the c code including screenshots.
+
