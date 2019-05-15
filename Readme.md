@@ -40,3 +40,5 @@ This folder contains all the finalized codes inside. The DA5 folder also contain
 # DA6
 This folder contains all the finalized codes inside. The DA6 folder also contains the word file **(Senda_DA6_documentation)** that documents the c code including screenshots.
 
+# Midterm2
+This folder contains all the finalized codes inside. The Midterm2 folder also contains the pdf file **(Senda_Midterm2_documentation)** that documents the c code including screenshots.
